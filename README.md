@@ -1,6 +1,6 @@
 ## I'm Kylie :space_invader:
 
-I'm a third-year student double majoring in Physics and Computer Science at the University of British Columbia (UBC). I have a strong interest in Modeling and Simulation, Fullstack Development, and all things tech-related. I also love astronomy and learning about space.
+I'm a fourth-year student double majoring in Physics and Computer Science at the University of British Columbia (UBC). I have a strong interest in Modeling and Simulation, Fullstack Development, and all things tech-related. I also love astronomy and learning about space.
 
 When I'm not studying or working on projects, I enjoy hiking with my dog and exploring new technologies. I am always looking to expand my skills in both frontend and backend development.
 
