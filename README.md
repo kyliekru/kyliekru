@@ -4,12 +4,6 @@ I'm a third-year student double majoring in Physics and Computer Science at the 
 
 When I'm not studying or working on projects, I enjoy hiking with my dog and exploring new technologies. I am always looking to expand my skills in both frontend and backend development.
 
-
- :star2: I’m currently enhancing my **Fullstack Development Skills** and diving into **Modeling and Simulation Techniques**  
- :globe_with_meridians: I’m looking to collaborate on projects related to **Modeling, Simulation, and Aritifical Intelligence**  
-🤔 I’m looking for help with **simulation algorithms**  
- :books: Ask me about **Computer Science**, **Physics**, or the **UBC experience**  
-
 ## Technologies 🛠️
 
 ### Languages
